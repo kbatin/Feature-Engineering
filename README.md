@@ -15,3 +15,7 @@ This repository contains:
 - Analysis of whether each feature performed as expected and insights drawn from the results.
 
 This project showcases the importance of well-crafted features and their role in building a more accurate and reliable machine learning model. By leveraging domain knowledge and exploratory data analysis, the engineered features add value beyond what the raw dataset can offer.
+
+Check the Feature Engineering project [here](https://github.com/kbatin/Feature-Engineering/blob/main/Team%202%20Feature%20Engineering-1.ipynb)
+
+<sub>This is a group project.</sub>
